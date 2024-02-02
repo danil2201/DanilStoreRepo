@@ -1,1 +1,7 @@
-
+{
+    "name": "Яндекс музыка",
+    "dev": "Ао Яндекс",
+    "version": "4.45",
+    "downloadurl": "https://www.dropbox.com/scl/fi/2a6pz8vd6hpn1go6rmooa/Y.Music_4.45.7233.0_ARM_ReleaseProd.appx?rlkey=x7gqgy184bkrmt33etzttsup1&dl=1",
+    "description": "Приложения для прослушки музыки от Яндекса"
+}
