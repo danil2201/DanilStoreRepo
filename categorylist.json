@@ -1,50 +1,50 @@
 [
     {
-        "categoryname": "Emulators",
+        "categoryname": "Эмуляторы",
         "categoryicon": "\uE1D3"
     },
     {
-        "categoryname": "Extensions",
+        "categoryname": "0Дополнения",
         "categoryicon": "\uE74C"
     },
     {
-        "categoryname": "Games",
+        "categoryname": "Игры",
         "categoryicon": "\uE7FC"
     },
     {
-        "categoryname": "Internet",
+        "categoryname": "Интернет",
         "categoryicon": "\uE12B"
     },
     {
-        "categoryname": "Maps",
+        "categoryname": "Карты",
         "categoryicon": "\uE1C4"
     },
     {
-        "categoryname": "Music",
+        "categoryname": "Музыка",
         "categoryicon": "\uEC4F"
     },
     {
-        "categoryname": "News",
+        "categoryname": "Новостные агрегаторы",
         "categoryicon": "\uE292"
     },
     {
-        "categoryname": "Office",
+        "categoryname": "Офис",
         "categoryicon": "\uE821"
     },
     {
-        "categoryname": "Photo",
+        "categoryname": "Фотографии",
         "categoryicon": "\uEB9F"
     },
     {
-        "categoryname": "Social",
+        "categoryname": "Соц сети",
         "categoryicon": "\uE716"
     },
     {
-        "categoryname": "Tools",
+        "categoryname": "Инструменты",
         "categoryicon": "\uEC7A"
     },
     {
-        "categoryname": "Video",
+        "categoryname": "Видео",
         "categoryicon": "\uE116"
     }
 ]
