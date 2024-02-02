@@ -1,6 +1,8 @@
 # PenguinStoreRepo
-Repo for PenguinStore, contains only manifest files
-
+ru:
+Я делаю этот репозиторий для русскоязычных пользователей что бы они смогли скачивать приложения подходящие им и имеющее русский язык!
+en:
+I am making this repository for Russian-speaking users so that they can download applications that are suitable for them and have a Russian language!
 # Contributing
 If you want to add a app/game or want your app/game to be removed, please create an issue here.
 Help is always highly appreciated
